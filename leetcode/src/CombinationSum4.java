@@ -1,4 +1,10 @@
+/**
+Given an integer array with all positive numbers and no duplicates, find the number of possible combinations that add up to a positive integer target.
 
+Java Solution
+
+This problem is similar to Coin Change. It's a typical dynamic programming problem.
+**/	
 public class CombinationSum4 {
 
 	public int combinationSum4(int[] nums, int target) {
